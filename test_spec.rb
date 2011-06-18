@@ -19,15 +19,15 @@ require 'rspec'
 -10    Sequencia de letras(abc, def, ...)?
 -10    Sequencia de números(123, 456)?
 
-muito_fraco: -80 ou menor
+muito_fraco: -65 ou menor
 adg, abc, 123, abc169, abc123, adg123, 111, aaa, afg246
 
-fraco: -79 : -60
+fraco: -64 : -48
 a1a1a1
 
-medio: -59 : -40
-boa:-39 : -20
-muito_boa: -19 ou maior
+medio: -47 : -32
+boa: -31 a -16
+muito_boa: -15 ou maior
 
 
 =end
