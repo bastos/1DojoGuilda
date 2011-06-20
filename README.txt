@@ -10,7 +10,7 @@ Participaram do Dojo:
 * Alain Bearez
 * Rafa Rubert
 * Welinton Freitas
-* Marcelo Emanuel
+* Marcelo Emanoel
 
 
 Regras:
